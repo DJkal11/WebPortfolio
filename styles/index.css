@@ -1,0 +1,154 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald);
+.heading {
+  font-family: Oswald;
+  padding: 225px 0;
+  border: 3px solid rgb(255, 255, 255);
+  text-align: center;
+  color: white;
+  background-image: url("https://thumbs.gfycat.com/PalatableNeglectedAfricanmolesnake-size_restricted.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-size: 30px;
+  position: relative; 
+  opacity: 95%;
+  border-radius: 20%;
+}
+#name {
+  font-size: 70px;
+}
+
+#icon {
+  padding-top: 10px;
+  font-size: 85px;
+}
+
+
+.projects {
+  position: relative;
+  padding: 230px 0;
+  border: 3px solid rgb(255, 255, 255);
+  text-align: center;
+  background-color: hsl(220, 100%, 60%);
+  background-size: cover;
+  color: rgb(255, 255, 255);
+  font-family: Oswald;
+  font-size: 20px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  border-radius: 20%;
+}
+
+
+
+.pro {
+  position: absolute;
+  top: 0%;
+  left: 22%;
+  font-size: 50px;
+}
+
+.place {
+  text-align: center;
+  border: 15px solid rgb(169, 169, 169);
+  background-color: darkgrey;
+  color: white;
+  margin-top: 140px;
+}
+
+.contact {
+  padding: 30px 0;
+  border: 3px solid rgb(255, 255, 255);
+  text-align: center;
+  background-color: hsl(0, 100%, 60%);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  font-family: Oswald;
+  font-size: 25px;
+  border-radius: 20%;
+ 
+}
+
+.contain {
+  border: 2px solid rgb(169, 169, 169);
+  padding: 50px 0;
+  height: 250px;
+  width: 75px;
+  margin-left: 30px;
+  background-color: rgb(255, 255, 255);
+  
+  -webkit-filter: grayscale(0) blur(0);
+	filter: grayscale(0) blur(0);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+
+}
+
+.contain:hover {
+  -webkit-filter: grayscale(100%) blur(3px);
+	filter: grayscale(100%) blur(3px);
+}
+
+.message {
+  display: grid;
+  margin-top: 100px;
+  grid-template-columns: repeat(2, 650px);
+  column-gap: -10px;
+  
+}
+
+a {
+  display: block;
+  text-decoration: none;
+}
+
+
+.p1 {
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+  margin-right: 30px;
+background-image: url("https://specials-images.forbesimg.com/imageserve/5f302109ffad89f9130e07db/960x0.jpg?cropX1=0&cropX2=4800&cropY1=243&cropY2=2943");  
+}
+
+.p2 {
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+  margin-right: 30px;
+  background-image: url("https://mk0designbombsg12amh.kinstacdn.com/wp-content/uploads/2016/10/code-sharing-websites.jpg");
+}
+
+.p3 {
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+  margin-right: 30px;
+  background-image: url("https://thecodedeveloper.com/wp-content/uploads/2017/01/Code-Developer-Logo.png");
+}
+
+.p4{
+  -webkit-box-flex: 1;
+  -ms-flex: 1;
+      flex: 1;
+margin-right: 30px;
+background-image: url("https://thecodedeveloper.com/wp-content/uploads/2017/01/Code-Developer-Logo.png");
+}
+
+
+.p5{
+  -webkit-box-flex: 1;
+  -ms-flex: 1;
+      flex: 1;
+margin-right: 30px;
+background-image: url("https://thecodedeveloper.com/wp-content/uploads/2017/01/Code-Developer-Logo.png");
+}
+
+
+b {
+  font-size: 60px;
+}
+u {
+  font-size: 40px;
+}
